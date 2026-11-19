@@ -42,18 +42,14 @@ defineExpose({submit});
         <div class="card-face card-back" :aria-hidden="!revealed" :inert="!revealed">
           <div v-if="direction" class="swipe-label" aria-hidden="true">{{ statuses[direction] }}</div>
           <img class="answer-image" :src="card.imageUrl" :alt="copy.imageAlt" draggable="false">
-          <dl class="sign-details">
-            <div>
-              <dt>{{ copy.number }}</dt>
-              <dd class="sign-number">{{ card.code ?? copy.noNumber }}</dd>
-            </div>
-            <div>
-              <dt>{{ copy.group }}</dt>
-              <dd>{{ card.groupTitle }}</dd>
-            </div>
+          <dl v-if="card.code" class="sign-details">
+            <dt>{{ copy.number }}</dt>
+            <dd class="sign-number">{{ card.code }}</dd>
           </dl>
           <h2 id="sign-answer" tabindex="-1">{{ card.name }}</h2>
-          <p class="description">{{ card.description }}</p>
+          <div class="description">
+            <p v-for="(paragraph, index) in card.description" :key="index">{{ paragraph }}</p>
+          </div>
         </div>
       </div>
     </article>
@@ -84,6 +80,7 @@ defineExpose({submit});
 
 .card-flip {
   display: grid;
+  position: relative;
   transform-style: preserve-3d;
   transition: transform .32s cubic-bezier(.22, .68, .29, 1);
 }
@@ -108,52 +105,71 @@ defineExpose({submit});
 }
 .card-front:hover { border-color: #6b8bbc; }
 .card-front:focus-visible { outline-offset: -5px; }
+.is-revealed .card-front {
+  position: absolute;
+  inset: 0;
+  min-height: 0;
+}
 .card-front img {
   width: min(100%, 15rem);
   height: clamp(8rem, 28vw, 12rem);
   object-fit: contain;
 }
 .card-back {
-  position: relative;
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
   transform: rotateY(180deg);
-  padding: 1.4rem clamp(1rem, 4vw, 2rem) 1.6rem;
+  padding: clamp(1.25rem, 4vw, 2rem);
+}
+.is-revealed .card-back {
+  position: relative;
+  inset: auto;
+  overflow: visible;
 }
 .answer-image {
-  width: min(100%, 11rem);
-  height: 6rem;
-  margin: 0 auto 1rem;
+  width: min(100%, 14rem);
+  height: clamp(6.5rem, 20vw, 9rem);
+  margin: 0 auto;
   object-fit: contain;
 }
 .sign-details {
-  display: grid;
-  grid-template-columns: auto minmax(0, 1fr);
-  align-items: start;
-  gap: .5rem 1.1rem;
-  border-block: 1px solid var(--line);
-  padding-block: .75rem;
-  margin-bottom: 1rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: .45rem;
+  margin: .85rem 0 0;
 }
 .sign-details dt {
   color: var(--muted);
   font-size: .875rem;
   font-weight: 600;
 }
-.sign-details dd {
-  margin-top: .2rem;
-  font-size: .95rem;
-  font-weight: 650;
-  overflow-wrap: anywhere;
-}
-.sign-details .sign-number {
+.sign-number {
   color: var(--accent);
-  font-size: 1.05rem;
+  font-size: 1rem;
+  font-weight: 750;
   font-variant-numeric: tabular-nums;
 }
-.card-back h2 { font-size: clamp(1.35rem, 4vw, 1.75rem); }
+.card-back h2 {
+  margin: .6rem auto 0;
+  color: var(--ink);
+  font-size: clamp(1.8rem, 5.7vw, 2.85rem);
+  font-weight: 800;
+  letter-spacing: -.035em;
+  line-height: 1.08;
+  text-align: center;
+  text-wrap: balance;
+  overflow-wrap: anywhere;
+}
 .description {
   color: var(--muted);
-  margin-top: .65rem;
+  border-top: 1px solid var(--line);
+  margin-top: 1.15rem;
+  padding-top: 1.1rem;
+  line-height: 1.6;
 }
+.description p + p { margin-top: .85rem; }
 .swipe-label {
   position: absolute;
   z-index: 1;
@@ -174,8 +190,6 @@ defineExpose({submit});
 
 @media (max-width: 35rem) {
   .card-front { min-height: 18rem; }
-  .card-back { padding-block: 1.1rem; }
-  .sign-details { gap: .5rem .75rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {

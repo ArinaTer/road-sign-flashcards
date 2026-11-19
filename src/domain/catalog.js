@@ -17,6 +17,5 @@ export const catalog = groupData.flatMap(group => group.signs.map(({id, name, de
   description,
   code: group.id === vehicle.id ? null : id,
   groupId: group.id,
-  groupTitle: group.title,
   imageUrl: `${import.meta.env.BASE_URL}signs/${group.directory}/${id}.webp`,
 })));

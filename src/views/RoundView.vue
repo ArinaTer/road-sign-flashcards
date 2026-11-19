@@ -26,7 +26,7 @@ const position = computed(() => formatMessage(copy.position, {
 
 watch([index, () => props.round.revealed], () => {
   const target = props.round.revealed ? '#sign-answer' : '[data-reveal]';
-  body.value?.querySelector(target)?.focus({preventScroll: true});
+  body.value?.querySelector(target)?.focus({preventScroll: props.round.revealed});
 }, {flush: 'post'});
 
 function answer(status) {
