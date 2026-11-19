@@ -1,0 +1,314 @@
+{
+  "id": "1",
+  "directory": "warning",
+  "title": "Предупреждающие знаки",
+  "signs": [
+    {
+      "id": "1.1",
+      "name": "Железнодорожный переезд со шлагбаумом",
+      "description": "Впереди железнодорожный переезд со шлагбаумом. Подъезжайте так, чтобы успеть остановиться при закрытии переезда.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-1-zheleznodorozhnyy-pereezd-so-shlagbaumom/"
+    },
+    {
+      "id": "1.2",
+      "name": "Железнодорожный переезд без шлагбаума",
+      "description": "Впереди переезд без шлагбаума. Перед пересечением путей убедитесь, что поезда не приближаются.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-2-zheleznodorozhnyy-pereezd-bez-shlagbauma/"
+    },
+    {
+      "id": "1.3.1",
+      "name": "Однопутная железная дорога",
+      "description": "Стоит непосредственно перед переездом без шлагбаума, на котором дорогу пересекает один железнодорожный путь.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-3-1-odnoputnaya-zheleznaya-doroga/"
+    },
+    {
+      "id": "1.3.2",
+      "name": "Железнодорожный переезд с несколькими путями",
+      "description": "Перед переездом без шлагбаума, где дорогу пересекают два или более железнодорожных пути.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-3-2-zheleznodorozhnyy-pereezd-s-neskolkimi-putyami/"
+    },
+    {
+      "id": "1.4.1",
+      "name": "Приближение к железнодорожному переезду",
+      "description": "Три полосы обозначают самое дальнее из трёх предупреждений о железнодорожном переезде на этой стороне дороги.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-4-1-priblizhenie-k-zheleznodorozhnomu-pereezdu/"
+    },
+    {
+      "id": "1.4.2",
+      "name": "Приближение к железнодорожному переезду",
+      "description": "Две полосы обозначают промежуточную точку в серии предупреждений о приближении к переезду.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-4-2-priblizhenie-k-zheleznodorozhnomu-pereezdu/"
+    },
+    {
+      "id": "1.4.3",
+      "name": "Приближение к железнодорожному переезду",
+      "description": "Одна полоса обозначает ближайшую к переезду табличку из серии предупреждений.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-4-3-priblizhenie-k-zheleznodorozhnomu-pereezdu/"
+    },
+    {
+      "id": "1.4.4",
+      "name": "Приближение к железнодорожному переезду",
+      "description": "Три полосы обозначают самое дальнее из трёх предупреждений о железнодорожном переезде на этой стороне дороги.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-4-4-priblizhenie-k-zheleznodorozhnomu-pereezdu/"
+    },
+    {
+      "id": "1.4.5",
+      "name": "Приближение к железнодорожному переезду",
+      "description": "Две полосы обозначают промежуточную точку в серии предупреждений о приближении к переезду.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-4-5-priblizhenie-k-zheleznodorozhnomu-pereezdu/"
+    },
+    {
+      "id": "1.4.6",
+      "name": "Приближение к железнодорожному переезду",
+      "description": "Одна полоса обозначает ближайшую к переезду табличку из серии предупреждений.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-4-6-priblizhenie-k-zheleznodorozhnomu-pereezdu/"
+    },
+    {
+      "id": "1.5",
+      "name": "Пересечение с трамвайной линией",
+      "description": "Впереди дорогу пересекают трамвайные пути.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-5-peresechenie-s-tramvaynoy-liniey/"
+    },
+    {
+      "id": "1.6",
+      "name": "Перекресток равнозначных дорог",
+      "description": "Впереди пересечение дорог без приоритета одной над другой. При проезде учитывайте транспорт, приближающийся справа.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-6-perekrestok-ravnoznachnyh-dorog/"
+    },
+    {
+      "id": "1.7",
+      "name": "Пересечение с круговым движением",
+      "description": "Предупреждает, что впереди перекрёсток с круговым движением.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-7-peresechenie-s-krugovym-dvizheniem/"
+    },
+    {
+      "id": "1.8",
+      "name": "Светофорное регулирование",
+      "description": "Предупреждает о приближении к переходу, перекрёстку или другому участку, где движение регулирует светофор.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-8-svetoforom-reguliruemyy-perekrestok/",
+      "imageSourceUrl": "https://uzavtoyolbelgi.uz/uploads/store/product/132ab73693e68439bf87b5c23ca9df61.gif"
+    },
+    {
+      "id": "1.9",
+      "name": "Разводной мост",
+      "description": "Впереди мост с подвижным пролётом или место паромной переправы.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-9-razvodnoy-most/"
+    },
+    {
+      "id": "1.10",
+      "name": "Выезд на набережную",
+      "description": "Дорога ведёт к краю берега, причала или набережной.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-10-vyezd-na-naberezhnuyu/"
+    },
+    {
+      "id": "1.11.1",
+      "name": "Опасный поворот",
+      "description": "Предупреждает о резком или плохо просматриваемом повороте направо.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-11-1-opasnyy-povorot/"
+    },
+    {
+      "id": "1.11.2",
+      "name": "Опасный поворот",
+      "description": "Предупреждает о резком или плохо просматриваемом повороте налево.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-11-2-opasnyy-povorot/"
+    },
+    {
+      "id": "1.12.1",
+      "name": "Опасные повороты",
+      "description": "Впереди серия опасных поворотов. Первый из них направо.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-12-1-opasnye-povoroty/"
+    },
+    {
+      "id": "1.12.2",
+      "name": "Опасные повороты",
+      "description": "Впереди серия опасных поворотов. Первый из них налево.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-12-2-opasnye-povoroty/"
+    },
+    {
+      "id": "1.13",
+      "name": "Крутой спуск",
+      "description": "Предупреждает о крутом спуске. Число на знаке обозначает уклон в процентах.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-13-krutoy-spusk/"
+    },
+    {
+      "id": "1.14",
+      "name": "Крутой подъём",
+      "description": "Предупреждает о крутом подъёме. Число на знаке обозначает уклон в процентах.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-14-krutoy-podem/"
+    },
+    {
+      "id": "1.15",
+      "name": "Скользкая дорога",
+      "description": "Сцепление колёс с покрытием на этом участке может заметно ухудшаться.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-15-skolzkaya-doroga/"
+    },
+    {
+      "id": "1.16",
+      "name": "Неровная дорога",
+      "description": "Впереди участок с выбоинами, волнами или другими неровностями покрытия.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-16-nerovnaya-doroga/"
+    },
+    {
+      "id": "1.17",
+      "name": "Опасность выброса гравия (камней)",
+      "description": "Из-под колёс машин могут вылетать мелкие камни или щебень.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-17-opasnost-vybrosa-graviya-kamney/"
+    },
+    {
+      "id": "1.18.1",
+      "name": "Сужение дороги",
+      "description": "Впереди проезжая часть сужается с обеих сторон.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-18-1-suzhenie-dorogi/"
+    },
+    {
+      "id": "1.18.2",
+      "name": "Сужение дороги",
+      "description": "Впереди проезжая часть сужается справа.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-18-2-suzhenie-dorogi/"
+    },
+    {
+      "id": "1.18.3",
+      "name": "Сужение дороги",
+      "description": "Впереди проезжая часть сужается слева.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-18-3-suzhenie-dorogi/"
+    },
+    {
+      "id": "1.19",
+      "name": "Движение в обоих направлениях",
+      "description": "Далее начинается участок, на котором транспорт движется в том числе навстречу.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-19-dvizhenie-v-oboih-napravleniyah/"
+    },
+    {
+      "id": "1.20",
+      "name": "Пешеходный переход",
+      "description": "Заранее предупреждает о пешеходном переходе. Само место перехода обозначается другими знаками и разметкой.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-20-peshehodnyy-perehod/"
+    },
+    {
+      "id": "1.21",
+      "name": "Дети",
+      "description": "Рядом школа, детское учреждение или место отдыха. На проезжей части могут появиться дети.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-21-deti/"
+    },
+    {
+      "id": "1.22",
+      "name": "Пересечение с велосипедной дорожкой",
+      "description": "Предупреждает, что дорогу пересекает велосипедная дорожка.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-22-peresechenie-s-velosipednoy-dorozhkoy/"
+    },
+    {
+      "id": "1.23",
+      "name": "Дорожные работы",
+      "description": "Впереди работы на дороге. Следите за временными знаками, ограждениями и изменением полос.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-23-dorozhnye-raboty/"
+    },
+    {
+      "id": "1.24",
+      "name": "Перегон скота",
+      "description": "На дорогу может выйти домашний скот, в том числе при перегоне стада.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-24-peregon-skota/"
+    },
+    {
+      "id": "1.25",
+      "name": "Дикие животные",
+      "description": "На проезжей части могут появиться дикие животные.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-25-dikie-zhivotnye/"
+    },
+    {
+      "id": "1.26",
+      "name": "Падение камней",
+      "description": "На дорогу могут упасть камни со склона, возможен обвал или оползень.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-26-padenie-kamney/"
+    },
+    {
+      "id": "1.27",
+      "name": "Боковой ветер",
+      "description": "На участке возможны сильные порывы ветра поперёк дороги.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-27-bokovoy-veter/"
+    },
+    {
+      "id": "1.28",
+      "name": "Низколетающие самолёты",
+      "description": "Над дорогой могут низко пролетать самолёты, например рядом с аэродромом.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-28-nizkoletayuschie-samolety/"
+    },
+    {
+      "id": "1.29",
+      "name": "Тоннель",
+      "description": "Впереди тоннель без искусственного освещения или с ограниченной видимостью въезда.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-29-tonnel/"
+    },
+    {
+      "id": "1.30",
+      "name": "Прочие опасности",
+      "description": "Предупреждает об опасности, для которой не предусмотрен отдельный предупреждающий знак.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-30-prochie-opasnosti/"
+    },
+    {
+      "id": "1.31",
+      "name": "Искусственная неровность",
+      "description": "Впереди искусственная неровность, устроенная для снижения скорости транспорта.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-31-iskusstvennaya-nerovnost/"
+    },
+    {
+      "id": "1.31.1",
+      "name": "Направление поворота",
+      "description": "Стрелки показывают направление крутого поворота или путь объезда ремонтируемого участка.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-31-1-napravlenie-povorota/"
+    },
+    {
+      "id": "1.31.2",
+      "name": "Направление поворота",
+      "description": "Стрелки показывают направление крутого поворота или путь объезда ремонтируемого участка.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-31-2-napravlenie-povorota/"
+    },
+    {
+      "id": "1.31.3",
+      "name": "Направление поворота",
+      "description": "Показывает варианты поворота у разветвления дорог или Т-образного перекрёстка и может обозначать направление объезда.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-31-3-napravlenie-povorota/"
+    },
+    {
+      "id": "1.32",
+      "name": "Пробка",
+      "description": "Впереди может образоваться затор. Будьте готовы к замедлению или остановке потока.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-32-probka/"
+    },
+    {
+      "id": "1.25.1",
+      "name": "Дикие животные",
+      "description": "На проезжей части могут появиться дикие животные.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-25-1-dikie-zhivotnye/"
+    },
+    {
+      "id": "1.25.2",
+      "name": "Низколетающие птицы",
+      "description": "Предупреждает об участке, где птицы могут пролетать низко над дорогой.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-25-2-nizkoletayuschie-ptitsy/"
+    },
+    {
+      "id": "1.25.3",
+      "name": "Грызуны и пресмыкающиеся",
+      "description": "В этом месте на проезжей части могут появляться мелкие животные или пресмыкающиеся.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-25-3-gryzuny-i-presmykayuschiesya/"
+    },
+    {
+      "id": "1.33",
+      "name": "Территория пересечения проезжих частей",
+      "description": "Предупреждает о зоне перекрёстка, в которую нельзя въезжать, если из-за затора придётся остановиться поперёк движения.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-33-territoriya-peresecheniya-proezzhih-chastey/"
+    },
+    {
+      "id": "1.34",
+      "name": "Внимание, управляемое заградительное устройство",
+      "description": "Впереди устройство, которое может перекрыть движение, например управляемый шлагбаум или выдвижное ограждение.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-34-vnimanie-upravlyaemoe-zagraditelnoe-ustroystvo/"
+    },
+    {
+      "id": "1.35",
+      "name": "Территория, где пешеходы могут передвигаться по обочине дороги",
+      "description": "Предупреждает об участке, на обочине которого могут идти пешеходы.",
+      "sourceUrl": "https://pddtest.uz/znaki/1-35-territoriya-gde-peshehody-mogut-peredvigatsya-po-obochine-dorogi/"
+    }
+  ]
+}

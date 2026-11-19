@@ -1,0 +1,91 @@
+{
+  "id": "8",
+  "directory": "vehicle",
+  "title": "Опознавательные знаки транспортных средств",
+  "signs": [
+    {
+      "id": "vehicle-avtopoezd",
+      "name": "Автопоезд",
+      "description": "Обозначает автопоезд: транспорт с прицепом либо сочленённое маршрутное транспортное средство.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-avtopoezd/"
+    },
+    {
+      "id": "vehicle-shipy",
+      "name": "Шипы",
+      "description": "Метка сзади автомобиля сообщает, что на его колёсах установлены шипованные шины.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-shipy/"
+    },
+    {
+      "id": "vehicle-perevozka-detey",
+      "name": "Перевозка детей",
+      "description": "Устанавливается на транспорт, который перевозит организованную группу детей.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-perevozka-detey/"
+    },
+    {
+      "id": "vehicle-gluhonemoy-voditel",
+      "name": "Глухонемой водитель",
+      "description": "Сообщает, что транспортом управляет глухой или глухонемой водитель.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-gluhonemoy-voditel/"
+    },
+    {
+      "id": "vehicle-uchebnoe-transportnoe-sredstvo",
+      "name": "Учебное транспортное средство",
+      "description": "Обозначает автомобиль, используемый для практического обучения вождению.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-uchebnoe-transportnoe-sredstvo/"
+    },
+    {
+      "id": "vehicle-ogranichenie-skorosti",
+      "name": "Ограничение скорости",
+      "description": "Число на знаке сзади показывает максимальную скорость, установленную для этого транспортного средства.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-ogranichenie-skorosti/"
+    },
+    {
+      "id": "vehicle-opasnyy-gruz",
+      "name": "Опасный груз",
+      "description": "Табличка сообщает, что автомобиль перевозит груз, относящийся к категории опасных.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-opasnyy-gruz/"
+    },
+    {
+      "id": "vehicle-krupnogabaritnyy-gruz",
+      "name": "Крупногабаритный груз",
+      "description": "Светоотражающий щиток устанавливают на выступающей за допустимые пределы части груза.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-krupnogabaritnyy-gruz/"
+    },
+    {
+      "id": "vehicle-dlinnomernoe-transportnoe-sredstvo",
+      "name": "Длинномерное транспортное средство",
+      "description": "Метка сзади предупреждает о большой длине транспортного средства или автопоезда.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-dlinnomernoe-transportnoe-sredstvo/"
+    },
+    {
+      "id": "vehicle-znak-avariynoy-ostanovki",
+      "name": "Знак аварийной остановки",
+      "description": "Переносной светоотражающий треугольник предупреждает других водителей о ДТП или вынужденной остановке.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-znak-avariynoy-ostanovki/"
+    },
+    {
+      "id": "vehicle-avariynaya-ostanovka",
+      "name": "Аварийная остановка",
+      "description": "Вариант переносного предупреждающего треугольника для обозначения места вынужденной остановки или ДТП.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-avariynaya-ostanovka/"
+    },
+    {
+      "id": "vehicle-vrach",
+      "name": "Врач",
+      "description": "Опознавательный знак на автомобиле сообщает, что за рулём находится врач.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-vrach/"
+    },
+    {
+      "id": "vehicle-invalid",
+      "name": "Инвалид",
+      "description": "Указывает, что автомобилем управляет человек с инвалидностью или что его на нём перевозят.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-invalid/"
+    },
+    {
+      "id": "vehicle-nachinayuschiy-voditel",
+      "name": "Начинающий водитель",
+      "description": "Метка сзади предупреждает, что за рулём водитель с небольшим стажем.",
+      "sourceUrl": "https://pddtest.uz/znaki/10-nachinayuschiy-voditel/"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "4",
+  "directory": "mandatory",
+  "title": "Предписывающие знаки",
+  "signs": [
+    {
+      "id": "4.1.1",
+      "name": "Движение прямо",
+      "description": "Разрешает ехать прямо в месте действия знака. У знака в начале участка дороги есть отдельные правила действия.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-1-1-dvizhenie-pryamo/"
+    },
+    {
+      "id": "4.1.2",
+      "name": "Движение направо",
+      "description": "Разрешает движение направо в месте действия знака.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-1-2-dvizhenie-napravo/"
+    },
+    {
+      "id": "4.1.3",
+      "name": "Движение налево",
+      "description": "Предписывает поворот налево. Такое направление также допускает разворот, если он не запрещён другими правилами.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-1-3-dvizhenie-nalevo/"
+    },
+    {
+      "id": "4.1.4",
+      "name": "Движение прямо или направо",
+      "description": "В месте действия знака можно продолжить движение прямо или повернуть направо.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-1-4-dvizhenie-pryamo-ili-napravo/"
+    },
+    {
+      "id": "4.1.5",
+      "name": "Движение прямо или налево",
+      "description": "Можно ехать прямо или налево. Разворот возможен, когда он не запрещён другими правилами.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-1-5-dvizhenie-pryamo-ili-nalevo/"
+    },
+    {
+      "id": "4.1.6",
+      "name": "Движение направо или налево",
+      "description": "Разрешает повороты направо и налево. Через перекрёсток прямо проехать нельзя.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-1-6-dvizhenie-napravo-ili-nalevo/"
+    },
+    {
+      "id": "4.2.1",
+      "name": "Объезд препятствия справа",
+      "description": "Препятствие следует объезжать справа, по стороне, на которую указывает стрелка.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-2-1-obezd-prepyatstviya-sprava/"
+    },
+    {
+      "id": "4.2.2",
+      "name": "Объезд препятствия слева",
+      "description": "Препятствие следует объезжать слева, по стороне, на которую указывает стрелка.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-2-2-obezd-prepyatstviya-sleva/"
+    },
+    {
+      "id": "4.2.3",
+      "name": "Объезд препятствия справа или слева",
+      "description": "Объехать препятствие можно с любой из двух показанных сторон.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-2-3-obezd-prepyatstviya-sprava-ili-sleva/"
+    },
+    {
+      "id": "4.3",
+      "name": "Круговое движение",
+      "description": "Движение по кругу разрешено только в направлении стрелок.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-3-krugovoe-dvizhenie/"
+    },
+    {
+      "id": "4.4",
+      "name": "Движение легковых автомобилей",
+      "description": "Обозначает дорогу для легковых автомобилей и других категорий транспорта, которым ПДД разрешают движение под этим знаком.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-4-dvizhenie-legkovyh-avtomobiley/"
+    },
+    {
+      "id": "4.5",
+      "name": "Велосипедная дорожка",
+      "description": "Обозначает дорожку для велосипедов и средств индивидуальной мобильности. При отсутствии пешеходной дорожки и тротуара по ней могут идти пешеходы.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-5-velosipednaya-dorozhka/"
+    },
+    {
+      "id": "4.6",
+      "name": "Пешеходная дорожка",
+      "description": "Указывает дорожку, предназначенную для движения пешеходов.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-6-peshehodnaya-dorozhka/"
+    },
+    {
+      "id": "4.6.1",
+      "name": "Пешеходная и велосипедная дорожка с совмещённым движением",
+      "description": "Пешеходы, велосипедисты и пользователи средств индивидуальной мобильности используют общую дорожку.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-6-1-peshehodnaya-i-velosipednaya-dorozhka-s-sovmeschennym-dvizheniem/"
+    },
+    {
+      "id": "4.6.2",
+      "name": "Конец пешеходной и велосипедной дорожки с совмещённым движением",
+      "description": "Здесь заканчивается общий участок для пешеходов, велосипедов и средств индивидуальной мобильности.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-6-2-konets-peshehodnoy-i-velosipednoy-dorozhki-s-sovmeschennym-dvizheniem/"
+    },
+    {
+      "id": "4.6.3",
+      "name": "Пешеходная и велосипедная дорожка с разделением движения",
+      "description": "У пешеходов и велосипедистов отдельные части дорожки. Сторону движения показывает расположение символов на знаке.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-6-3-peshehodnaya-i-velosipednaya-dorozhka-s-razdeleniem-dvizheniya/"
+    },
+    {
+      "id": "4.6.4",
+      "name": "Конец пешеходной и велосипедной дорожки с разделением движения",
+      "description": "Здесь заканчивается дорожка, на которой потоки пешеходов и велосипедистов были разделены.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-6-4-konets-peshehodnoy-i-velosipednoy-dorozhki-s-razdeleniem-dvizheniya/"
+    },
+    {
+      "id": "4.6.5",
+      "name": "Пешеходная и велосипедная дорожка с разделением движения",
+      "description": "У пешеходов и велосипедистов отдельные части дорожки. Сторону движения показывает расположение символов на знаке.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-6-5-peshehodnaya-i-velosipednaya-dorozhka-s-razdeleniem-dvizheniya/"
+    },
+    {
+      "id": "4.6.6",
+      "name": "Конец пешеходной и велосипедной дорожки с разделением движения",
+      "description": "Здесь заканчивается дорожка, на которой потоки пешеходов и велосипедистов были разделены.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-6-6-konets-peshehodnoy-i-velosipednoy-dorozhki-s-razdeleniem-dvizheniya/"
+    },
+    {
+      "id": "4.7",
+      "name": "Минимальная скорость",
+      "description": "Указывает минимальную разрешённую скорость на участке или полосе, к которой относится.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-7-minimalnaya-skorost/"
+    },
+    {
+      "id": "4.8",
+      "name": "Конец зоны ограничения минимальной скорости",
+      "description": "Здесь прекращает действовать минимальная скорость, установленная знаком 4.7.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-8-konets-zony-ogranicheniya-minimalnoy-skorosti/"
+    },
+    {
+      "id": "4.9.1",
+      "name": "Направление движения транспортных средств, перевозящих опасные грузы",
+      "description": "Стрелка указывает обязательное направление для транспорта с обозначением опасного груза.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-9-1-napravlenie-dvizheniya-transportnyh-sredstv-perevozyaschih-opasnye-gruzy/"
+    },
+    {
+      "id": "4.9.2",
+      "name": "Направление движения транспортных средств, перевозящих опасные грузы",
+      "description": "Стрелка указывает обязательное направление для транспорта с обозначением опасного груза.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-9-2-napravlenie-dvizheniya-transportnyh-sredstv-perevozyaschih-opasnye-gruzy/"
+    },
+    {
+      "id": "4.9.3",
+      "name": "Направление движения транспортных средств, перевозящих опасные грузы",
+      "description": "Стрелка указывает обязательное направление для транспорта с обозначением опасного груза.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-9-3-napravlenie-dvizheniya-transportnyh-sredstv-perevozyaschih-opasnye-gruzy/"
+    },
+    {
+      "id": "4.10",
+      "name": "Дорога для верховой езды",
+      "description": "Обозначает дорожку, предназначенную для движения верхом.",
+      "sourceUrl": "https://pddtest.uz/znaki/4-10-doroga-dlya-verhovoy-ezdy/",
+      "imageSourceUrl": "https://uzavtoyolbelgi.uz/uploads/store/product/783f21d164e94af3028d671e96c6feb9.gif"
+    }
+  ]
+}

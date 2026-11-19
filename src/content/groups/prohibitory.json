@@ -1,0 +1,245 @@
+{
+  "id": "3",
+  "directory": "prohibitory",
+  "title": "Запрещающие знаки",
+  "signs": [
+    {
+      "id": "3.1",
+      "name": "Въезд запрещён",
+      "description": "Закрывает въезд с той стороны, на которой установлен знак.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-1-vezd-zapreschen/",
+      "imageSourceUrl": "https://uzavtoyolbelgi.uz/uploads/store/product/7b41e997ce44a647bf38be4345975fc6.gif"
+    },
+    {
+      "id": "3.2",
+      "name": "Движение запрещено",
+      "description": "Запрещает движение транспортных средств на обозначенном участке. Правила предусматривают исключения для отдельных случаев.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-2-dvizhenie-zaprescheno/"
+    },
+    {
+      "id": "3.3",
+      "name": "Движение механических транспортных средств запрещено",
+      "description": "На участок запрещено въезжать на механических транспортных средствах, кроме предусмотренных правилами исключений.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-3-dvizhenie-mehanicheskih-transportnyh-sredstv-zaprescheno/"
+    },
+    {
+      "id": "3.4",
+      "name": "Движение грузовых автомобилей запрещено",
+      "description": "Ограничивает движение грузовых автомобилей. Если на рисунке указана масса, ориентируйтесь на этот предел.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-4-dvizhenie-gruzovyh-avtomobiley-zaprescheno/"
+    },
+    {
+      "id": "3.5",
+      "name": "Движение мотоциклов запрещено",
+      "description": "Закрывает проезд для мотоциклов.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-5-dvizhenie-mototsiklov-zaprescheno/"
+    },
+    {
+      "id": "3.6",
+      "name": "Движение тракторов запрещено",
+      "description": "Запрещает проезд тракторов и самоходных машин.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-6-dvizhenie-traktorov-zaprescheno/"
+    },
+    {
+      "id": "3.7",
+      "name": "Движение с прицепом запрещено",
+      "description": "Запрещает движение грузовых автомобилей и тракторов с прицепом, а также буксировку механического транспорта.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-7-dvizhenie-s-pritsepom-zaprescheno/"
+    },
+    {
+      "id": "3.8",
+      "name": "Движение гужевых повозок запрещено",
+      "description": "Запрещает движение гужевых повозок и саней, верховых и вьючных животных, а также прогон скота.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-8-dvizhenie-guzhevyh-povozok-zaprescheno/"
+    },
+    {
+      "id": "3.9",
+      "name": "Движение на велосипедах запрещено",
+      "description": "Запрещает въезжать на участок на велосипеде.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-9-dvizhenie-na-velosipedah-zaprescheno/"
+    },
+    {
+      "id": "3.10",
+      "name": "Движение пешеходов запрещено",
+      "description": "На обозначенной стороне дороги пешеходам проход запрещён.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-10-dvizhenie-peshehodov-zaprescheno/"
+    },
+    {
+      "id": "3.11",
+      "name": "Ограничение массы",
+      "description": "Нельзя проехать, если общая фактическая масса транспорта или состава превышает указанную.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-11-ogranichenie-massy/"
+    },
+    {
+      "id": "3.12",
+      "name": "Ограничение нагрузки на ось",
+      "description": "Нельзя проехать, если фактическая нагрузка хотя бы на одну ось выше значения на знаке.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-12-ogranichenie-nagruzki-na-os/"
+    },
+    {
+      "id": "3.13",
+      "name": "Ограничение по высоте",
+      "description": "Транспорт не может проехать, если его габаритная высота вместе с грузом выше указанной.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-13-ogranichenie-po-vysote/"
+    },
+    {
+      "id": "3.14",
+      "name": "Ограничение по ширине",
+      "description": "Запрещён проезд транспорта, габаритная ширина которого с грузом или без груза превышает указанный предел.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-14-ogranichenie-po-shirine/"
+    },
+    {
+      "id": "3.15",
+      "name": "Ограничение по длине",
+      "description": "Ограничивает общую длину транспортного средства или состава. Выступающий груз также учитывается.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-15-ogranichenie-po-dline/"
+    },
+    {
+      "id": "3.16",
+      "name": "Минимальное расстояние",
+      "description": "Дистанция до транспорта впереди должна быть не меньше расстояния, показанного на знаке.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-16-minimalnoe-rasstoyanie/"
+    },
+    {
+      "id": "3.17.1",
+      "name": "Таможня",
+      "description": "На таможенном пункте нужно остановиться, прежде чем продолжить движение.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-17-1-tamozhnya/"
+    },
+    {
+      "id": "3.17.2",
+      "name": "Опасность",
+      "description": "Дальнейший проезд закрыт из-за чрезвычайной ситуации, аварии, пожара или другой опасности.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-17-2-opasnost/"
+    },
+    {
+      "id": "3.17.3",
+      "name": "Место контроля",
+      "description": "На контрольном пункте обязательна остановка перед дальнейшим проездом.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-17-3-mesto-kontrolya/"
+    },
+    {
+      "id": "3.18.1",
+      "name": "Поворот направо запрещен",
+      "description": "В месте действия знака нельзя поворачивать направо.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-18-1-povorot-napravo-zapreschen/"
+    },
+    {
+      "id": "3.18.2",
+      "name": "Поворот налево запрещен",
+      "description": "В месте действия знака нельзя поворачивать налево.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-18-2-povorot-nalevo-zapreschen/"
+    },
+    {
+      "id": "3.19",
+      "name": "Разворот запрещен",
+      "description": "Запрещает разворот. Возможность поворота налево определяют другие знаки, разметка и правила.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-19-razvorot-zapreschen/"
+    },
+    {
+      "id": "3.20",
+      "name": "Обгон запрещен",
+      "description": "На участке запрещён обгон. Допустимые исключения определяются ПДД.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-20-obgon-zapreschen/"
+    },
+    {
+      "id": "3.21",
+      "name": "Конец зоны запрещения обгона",
+      "description": "Обозначает границу, за которой заканчивается запрет обгона, установленный знаком 3.20.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-21-konets-zony-zaprescheniya-obgona/"
+    },
+    {
+      "id": "3.22",
+      "name": "Обгон грузовым автомобилям запрещен",
+      "description": "Грузовым автомобилям с разрешённой максимальной массой свыше 3,5 т на участке запрещён обгон.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-22-obgon-gruzovym-avtomobilyam-zapreschen/"
+    },
+    {
+      "id": "3.23",
+      "name": "Конец зоны запрещения обгона грузовым автомобилям",
+      "description": "Здесь заканчивается зона действия запрета обгона для грузовых автомобилей.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-23-konets-zony-zaprescheniya-obgona-gruzovym-avtomobilyam/"
+    },
+    {
+      "id": "3.24",
+      "name": "Ограничение максимальной скорости",
+      "description": "Цифра задаёт верхний предел скорости в километрах в час.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-24-ogranichenie-maksimalnoy-skorosti/",
+      "imageSourceUrl": "https://uzavtoyolbelgi.uz/uploads/store/product/6abf893f98214d40c291a6dcd0644566.gif"
+    },
+    {
+      "id": "3.25",
+      "name": "Конец зоны ограничения максимальной скорости",
+      "description": "Отменяет ограничение скорости, введённое предыдущим знаком 3.24. Дальше действуют другие установленные ограничения.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-25-konets-zony-ogranicheniya-maksimalnoy-skorosti/"
+    },
+    {
+      "id": "3.26",
+      "name": "Подача звукового сигнала запрещена",
+      "description": "Пользоваться звуковым сигналом разрешено для предотвращения ДТП.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-26-podacha-zvukovogo-signala-zapreschena/"
+    },
+    {
+      "id": "3.27",
+      "name": "Остановка запрещена",
+      "description": "На стороне дороги, где установлен знак, запрещены остановка и стоянка с учётом исключений по ПДД.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-27-ostanovka-zapreschena/"
+    },
+    {
+      "id": "3.28",
+      "name": "Стоянка запрещена",
+      "description": "На стороне установки знака запрещена стоянка. Краткая остановка возможна там, где она разрешена остальными правилами.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-28-stoyanka-zapreschena/"
+    },
+    {
+      "id": "3.29",
+      "name": "Стоянка запрещена по нечётным числам месяца",
+      "description": "На этой стороне дороги запрещено оставлять транспорт на стоянке в нечётные даты месяца.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-29-stoyanka-zapreschena-po-nechetnym-chislam-mesyatsa/"
+    },
+    {
+      "id": "3.30",
+      "name": "Стоянка запрещена по чётным числам месяца",
+      "description": "На этой стороне дороги запрещено оставлять транспорт на стоянке в чётные даты месяца.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-30-stoyanka-zapreschena-po-chetnym-chislam-mesyatsa/"
+    },
+    {
+      "id": "3.31",
+      "name": "Конец зоны всех ограничений",
+      "description": "Завершает действие ряда ранее введённых ограничений, например запретов стоянки или обгона и ограничения скорости.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-31-konets-zony-vseh-ogranicheniy/"
+    },
+    {
+      "id": "3.32",
+      "name": "Запрещается движение транспортного средства, перевозящего опасные грузы",
+      "description": "Запрещает въезд транспортным средствам, обозначенным как перевозящие опасный груз.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-32-zapreschaetsya-dvizhenie-transportnogo-sredstva-perevozyaschego-opasnye/"
+    },
+    {
+      "id": "3.33",
+      "name": "Запрещается движение транспортного средства, перевозящего взрывоопасные и легковоспламеняющиеся грузы",
+      "description": "Закрывает проезд транспорту с взрывчатыми или легковоспламеняющимися грузами в случаях, установленных ПДД.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-33-zapreschaetsya-dvizhenie-transportnogo-sredstva-perevozyaschego/"
+    },
+    {
+      "id": "3.35",
+      "name": "Экологическая зона",
+      "description": "Обозначает въезд в зону, в которой проезд ограничен по экологической категории транспортных средств.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-35-ekologicheskaya-zona/"
+    },
+    {
+      "id": "3.5.1",
+      "name": "Движение скутеров и мопедов запрещено",
+      "description": "На обозначенном участке действует запрет на движение на скутерах и мопедах.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-5-1-dvizhenie-skuterov-i-mopedov-zaprescheno/",
+      "imageSourceUrl": "https://lex.uz/uz/files/7050641.jpg"
+    },
+    {
+      "id": "3.34",
+      "name": "Управление средствами индивидуальной мобильности запрещено",
+      "description": "На участке нельзя передвигаться на средствах индивидуальной мобильности.",
+      "sourceUrl": "https://pddtest.uz/znaki/3-34-upravlenie-sredstvami-individualnoy-mobilnosti-zaprescheno/",
+      "imageSourceUrl": "https://lex.uz/uz/files/7050646.jpg"
+    }
+  ]
+}

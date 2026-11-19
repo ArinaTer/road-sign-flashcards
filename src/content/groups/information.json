@@ -1,0 +1,539 @@
+{
+  "id": "5",
+  "directory": "information",
+  "title": "Информационно-указательные знаки",
+  "signs": [
+    {
+      "id": "5.1",
+      "name": "Автомагистраль",
+      "description": "Обозначает начало автомагистрали или въезд на неё. Здесь нельзя разворачиваться, сдавать назад и останавливаться за пределами обозначенных площадок. Движение запрещено пешеходам, велосипедам, мопедам, тракторам и транспорту, который по конструкции или состоянию не может развить 40 км/ч.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-1-avtomagistral/"
+    },
+    {
+      "id": "5.2",
+      "name": "Конец автомагистрали",
+      "description": "На этом месте заканчивается автомагистраль и перестаёт действовать её особый режим.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-2-konets-avtomagistrali/"
+    },
+    {
+      "id": "5.3",
+      "name": "Дорога для автомобилей",
+      "description": "Начинается дорога с особым режимом, предназначенная для автомобилей и других разрешённых правилами механических транспортных средств.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-3-doroga-dlya-avtomobiley/"
+    },
+    {
+      "id": "5.4",
+      "name": "Конец дороги для автомобилей",
+      "description": "Здесь заканчивается дорога с режимом, обозначенным знаком 5.3.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-4-konets-dorogi-dlya-avtomobiley/"
+    },
+    {
+      "id": "5.5",
+      "name": "Дорога с односторонним движением",
+      "description": "По всей ширине обозначенной дороги транспорт движется в одном направлении.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-5-doroga-s-odnostoronnim-dvizheniem/"
+    },
+    {
+      "id": "5.6",
+      "name": "Конец дороги с односторонним движением",
+      "description": "Здесь заканчивается дорога с односторонним движением. Впереди может появиться встречный поток.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-6-konets-dorogi-s-odnostoronnim-dvizheniem/"
+    },
+    {
+      "id": "5.7.1",
+      "name": "Выезд на дорогу с односторонним движением",
+      "description": "На пересекаемой дороге транспорт движется только в сторону, показанную стрелкой.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-7-1-vyezd-na-dorogu-s-odnostoronnim-dvizheniem/"
+    },
+    {
+      "id": "5.7.2",
+      "name": "Выезд на дорогу с односторонним движением",
+      "description": "На пересекаемой дороге транспорт движется только в сторону, показанную стрелкой.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-7-2-vyezd-na-dorogu-s-odnostoronnim-dvizheniem/"
+    },
+    {
+      "id": "5.8.1",
+      "name": "Направления движения по полосам",
+      "description": "Стрелки над полосами показывают, куда с каждой полосы разрешено продолжать движение.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-1-napravleniya-dvizheniya-po-polosam/"
+    },
+    {
+      "id": "5.8.2.4",
+      "name": "Направление движения по полосе",
+      "description": "Стрелки показывают разрешённые манёвры с конкретной полосы перед перекрёстком.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-2-4-napravlenie-dvizheniya-po-polose/"
+    },
+    {
+      "id": "5.8.2.1",
+      "name": "Направление движения по полосе",
+      "description": "Стрелки показывают разрешённые манёвры с конкретной полосы перед перекрёстком.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-2-1-napravlenie-dvizheniya-po-polose/"
+    },
+    {
+      "id": "5.8.2.3",
+      "name": "Направление движения по полосе",
+      "description": "Стрелки показывают разрешённые манёвры с конкретной полосы перед перекрёстком.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-2-3-napravlenie-dvizheniya-po-polose/"
+    },
+    {
+      "id": "5.8.2.2",
+      "name": "Направление движения по полосе",
+      "description": "Стрелки показывают разрешённые манёвры с конкретной полосы перед перекрёстком.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-2-2-napravlenie-dvizheniya-po-polose/"
+    },
+    {
+      "id": "5.8.2.5",
+      "name": "Направление движения по полосе",
+      "description": "Стрелки показывают разрешённые манёвры с конкретной полосы перед перекрёстком.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-2-5-napravlenie-dvizheniya-po-polose/"
+    },
+    {
+      "id": "5.8.3.1",
+      "name": "Начало полосы",
+      "description": "Справа начинается дополнительная полоса подъёма или торможения. Дополнительный символ может задавать условия движения по полосам.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-3-1-nachalo-polosy/"
+    },
+    {
+      "id": "5.8.3.2",
+      "name": "Начало полосы",
+      "description": "Справа начинается дополнительная полоса подъёма или торможения. Дополнительный символ может задавать условия движения по полосам.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-3-2-nachalo-polosy/"
+    },
+    {
+      "id": "5.8.4",
+      "name": "Начало полосы",
+      "description": "Обозначает начало участка средней полосы, выделенной для движения в указанном направлении на трёхполосной дороге.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-4-nachalo-polosy/"
+    },
+    {
+      "id": "5.8.5",
+      "name": "Конец полосы",
+      "description": "Дополнительная полоса заканчивается. Продолжить движение можно после безопасного перестроения.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-5-konets-polosy/"
+    },
+    {
+      "id": "5.8.6",
+      "name": "Конец полосы",
+      "description": "Завершается участок средней полосы, по которому было разрешено движение в вашем направлении.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-6-konets-polosy/"
+    },
+    {
+      "id": "5.8.7.1",
+      "name": "Направление движения по полосам",
+      "description": "Показывает распределение встречных потоков по полосам. Дополнительный символ может ограничивать движение по конкретной полосе.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-7-1-napravlenie-dvizheniya-po-polosam/"
+    },
+    {
+      "id": "5.8.7.2",
+      "name": "Направление движения по полосам",
+      "description": "Показывает распределение встречных потоков по полосам. Дополнительный символ может ограничивать движение по конкретной полосе.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-7-2-napravlenie-dvizheniya-po-polosam/"
+    },
+    {
+      "id": "5.8.8",
+      "name": "Направления движения по полосам",
+      "description": "Показывает разрешённые направления по полосам и схему распределения потоков на дороге.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-8-napravleniya-dvizheniya-po-polosam/"
+    },
+    {
+      "id": "5.8.9",
+      "name": "Количество полос",
+      "description": "Количество стрелок показывает число полос. Символы на них могут уточнять режим отдельных полос.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-8-9-kolichestvo-polos/"
+    },
+    {
+      "id": "5.9",
+      "name": "Полоса для маршрутных транспортных средств",
+      "description": "Обозначает полосу, выделенную для маршрутного транспорта.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-9-polosa-dlya-marshrutnyh-transportnyh-sredstv/"
+    },
+    {
+      "id": "5.10.1",
+      "name": "Дорога с полосой для маршрутных транспортных средств",
+      "description": "На дороге выделена полоса для маршрутного транспорта, движущегося навстречу общему потоку.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-10-1-doroga-s-polosoy-dlya-marshrutnyh-transportnyh-sredstv/"
+    },
+    {
+      "id": "5.10.2",
+      "name": "Выезд на дорогу с полосой для маршрутных транспортных средств",
+      "description": "Предупреждает о выезде на дорогу, где одна полоса выделена для встречного маршрутного транспорта.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-10-2-vyezd-na-dorogu-s-polosoy-dlya-marshrutnyh-transportnyh-sredstv/"
+    },
+    {
+      "id": "5.10.3",
+      "name": "Выезд на дорогу с полосой для маршрутных транспортных средств",
+      "description": "Предупреждает о выезде на дорогу, где одна полоса выделена для встречного маршрутного транспорта.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-10-3-vyezd-na-dorogu-s-polosoy-dlya-marshrutnyh-transportnyh-sredstv/"
+    },
+    {
+      "id": "5.10.4",
+      "name": "Конец дороги с полосой для маршрутных транспортных средств",
+      "description": "Обозначает окончание дороги со встречной полосой для маршрутного транспорта.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-10-4-konets-dorogi-s-polosoy-dlya-marshrutnyh-transportnyh-sredstv/"
+    },
+    {
+      "id": "5.11.1",
+      "name": "Место для разворота",
+      "description": "Показывает место, где можно развернуться. Поворот налево в этом месте не разрешён этим знаком.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-11-1-mesto-dlya-razvorota/"
+    },
+    {
+      "id": "5.11.2",
+      "name": "Зона для разворота",
+      "description": "Показывает протяжённость участка, на котором можно выполнить разворот.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-11-2-zona-dlya-razvorota/"
+    },
+    {
+      "id": "5.12",
+      "name": "Место остановки автобуса и (или) троллейбуса",
+      "description": "Показывает место остановки автобуса или троллейбуса для посадки и высадки пассажиров.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-12-mesto-ostanovki-avtobusa-i-ili-trolleybusa/"
+    },
+    {
+      "id": "5.13",
+      "name": "Место остановки трамвая",
+      "description": "Обозначает место, где останавливается трамвай.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-13-mesto-ostanovki-tramvaya/"
+    },
+    {
+      "id": "5.14",
+      "name": "Место стоянки легковых такси",
+      "description": "Обозначает специально отведённое место стоянки легковых такси.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-14-mesto-stoyanki-legkovyh-taksi/"
+    },
+    {
+      "id": "5.15",
+      "name": "Место стоянки",
+      "description": "Обозначает место для парковки. Таблички могут уточнять, кто и как может там парковаться.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-15-mesto-stoyanki/"
+    },
+    {
+      "id": "5.15.1",
+      "name": "Платная парковка",
+      "description": "Обозначает стоянку, пользование которой платное.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-15-1-platnaya-parkovka/"
+    },
+    {
+      "id": "5.16.1",
+      "name": "Пешеходный переход",
+      "description": "Указывает пешеходный переход. Если разметки нет, этот знак ставят слева у дальней границы перехода.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-16-1-peshehodnyy-perehod/",
+      "imageSourceUrl": "https://uzavtoyolbelgi.uz/uploads/store/product/16dcb2abbfcc3644f068c3f26c2755ec.gif"
+    },
+    {
+      "id": "5.17.1",
+      "name": "Подземный пешеходный переход",
+      "description": "Показывает, где находится вход в подземный пешеходный переход.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-17-1-podzemnyy-peshehodnyy-perehod/"
+    },
+    {
+      "id": "5.17.2",
+      "name": "Подземный пешеходный переход",
+      "description": "Показывает, где находится вход в подземный пешеходный переход.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-17-2-podzemnyy-peshehodnyy-perehod/"
+    },
+    {
+      "id": "5.17.3",
+      "name": "Надземный пешеходный переход",
+      "description": "Указывает вход на надземный пешеходный переход.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-17-3-nadzemnyy-peshehodnyy-perehod/"
+    },
+    {
+      "id": "5.17.4",
+      "name": "Надземный пешеходный переход",
+      "description": "Указывает вход на надземный пешеходный переход.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-17-4-nadzemnyy-peshehodnyy-perehod/"
+    },
+    {
+      "id": "5.18",
+      "name": "Рекомендуемая скорость",
+      "description": "Число показывает рекомендуемую скорость на участке с учётом дорожных условий.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-18-rekomenduemaya-skorost/"
+    },
+    {
+      "id": "5.19.1",
+      "name": "Тупиковая дорога",
+      "description": "Предупреждает, что на обозначенной ветви дороги нет сквозного проезда.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-19-1-tupikovaya-doroga/"
+    },
+    {
+      "id": "5.19.2",
+      "name": "Тупиковая дорога",
+      "description": "Предупреждает, что на обозначенной ветви дороги нет сквозного проезда.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-19-2-tupikovaya-doroga/"
+    },
+    {
+      "id": "5.19.3",
+      "name": "Тупиковая дорога",
+      "description": "Предупреждает, что на обозначенной ветви дороги нет сквозного проезда.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-19-3-tupikovaya-doroga/"
+    },
+    {
+      "id": "5.20.1.1",
+      "name": "Предварительный указатель направлений",
+      "description": "Заранее показывает направления к населённым пунктам, объектам и маршрутам перед развилкой или перекрёстком.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-20-1-1-predvaritelnyy-ukazatel-napravleniy/"
+    },
+    {
+      "id": "5.20.1.2",
+      "name": "Предварительный указатель направлений",
+      "description": "Заранее показывает направления к населённым пунктам, объектам и маршрутам перед развилкой или перекрёстком.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-20-1-2-predvaritelnyy-ukazatel-napravleniy/"
+    },
+    {
+      "id": "5.20.1.4",
+      "name": "Предварительный указатель направлений",
+      "description": "Заранее показывает направления к населённым пунктам, объектам и маршрутам перед развилкой или перекрёстком.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-20-1-4-predvaritelnyy-ukazatel-napravleniy/"
+    },
+    {
+      "id": "5.20.1.3",
+      "name": "Предварительный указатель направлений",
+      "description": "Заранее показывает направления к населённым пунктам, объектам и маршрутам перед развилкой или перекрёстком.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-20-1-3-predvaritelnyy-ukazatel-napravleniy/"
+    },
+    {
+      "id": "5.20.2",
+      "name": "Предварительный указатель направления",
+      "description": "Заранее указывает направление к объекту или населённому пункту перед поворотом.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-20-2-predvaritelnyy-ukazatel-napravleniya/"
+    },
+    {
+      "id": "5.20.3",
+      "name": "Схема движения",
+      "description": "Показывает схему проезда сложного перекрёстка или рекомендованный путь вместо запрещённого манёвра.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-20-3-shema-dvizheniya/"
+    },
+    {
+      "id": "5.21.1",
+      "name": "Указатель направления",
+      "description": "Стрелками указывает, куда ехать к перечисленным населённым пунктам или объектам.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-21-1-ukazatel-napravleniya/"
+    },
+    {
+      "id": "5.21.2",
+      "name": "Указатель направления",
+      "description": "Стрелками указывает, куда ехать к перечисленным населённым пунктам или объектам.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-21-2-ukazatel-napravleniya/"
+    },
+    {
+      "id": "5.22",
+      "name": "Начало населённого пункта",
+      "description": "С этого места начинают действовать правила движения в населённом пункте. Знак выполнен на белом фоне.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-22-nachalo-naselennogo-punkta/"
+    },
+    {
+      "id": "5.23",
+      "name": "Конец населённого пункта",
+      "description": "Завершает участок, на котором действовали правила движения в населённом пункте по знаку с белым фоном.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-23-konets-naselennogo-punkta/"
+    },
+    {
+      "id": "5.24",
+      "name": "Начало населённого пункта",
+      "description": "На синем фоне указано начало населённого пункта. На этой дороге сохраняется режим движения вне населённого пункта.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-24-nachalo-naselennogo-punkta/"
+    },
+    {
+      "id": "5.25",
+      "name": "Конец населённого пункта",
+      "description": "Указывает конец населённого пункта, начало которого обозначил знак на синем фоне.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-25-konets-naselennogo-punkta/"
+    },
+    {
+      "id": "5.26",
+      "name": "Наименование объекта",
+      "description": "Показывает название расположенного у дороги объекта, например реки или перевала.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-26-naimenovanie-obekta/"
+    },
+    {
+      "id": "5.27",
+      "name": "Указатель расстояний",
+      "description": "Показывает расстояния в километрах до перечисленных объектов или населённых пунктов.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-27-ukazatel-rasstoyaniy/"
+    },
+    {
+      "id": "5.28",
+      "name": "Километровый знак",
+      "description": "Число показывает, на каком километре дороги установлен знак.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-28-kilometrovyy-znak/"
+    },
+    {
+      "id": "5.29.1",
+      "name": "Номер маршрута",
+      "description": "Обозначает номер дороги или маршрута, по которому вы движетесь.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-29-1-nomer-marshruta/"
+    },
+    {
+      "id": "5.29.2.1",
+      "name": "Номер дороги и направление",
+      "description": "Показывает номер маршрута и направление, в котором он продолжается.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-29-2-1-nomer-dorogi-i-napravlenie/"
+    },
+    {
+      "id": "5.30.1",
+      "name": "Направление движения для грузовых автомобилей",
+      "description": "Подсказывает направление объезда для грузовых автомобилей, тракторов или самоходных машин.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-30-1-napravlenie-dvizheniya-dlya-gruzovyh-avtomobiley/"
+    },
+    {
+      "id": "5.30.2",
+      "name": "Направление движения для грузовых автомобилей",
+      "description": "Подсказывает направление объезда для грузовых автомобилей, тракторов или самоходных машин.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-30-2-napravlenie-dvizheniya-dlya-gruzovyh-avtomobiley/"
+    },
+    {
+      "id": "5.30.3",
+      "name": "Направление движения для грузовых автомобилей",
+      "description": "Подсказывает направление объезда для грузовых автомобилей, тракторов или самоходных машин.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-30-3-napravlenie-dvizheniya-dlya-gruzovyh-avtomobiley/"
+    },
+    {
+      "id": "5.31",
+      "name": "Схема объезда",
+      "description": "Заранее показывает весь маршрут объезда перекрытого участка.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-31-shema-obezda/"
+    },
+    {
+      "id": "5.32.1",
+      "name": "Направление объезда",
+      "description": "Стрелка указывает очередное направление движения по маршруту объезда.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-32-1-napravlenie-obezda/"
+    },
+    {
+      "id": "5.32.2",
+      "name": "Направление объезда",
+      "description": "Стрелка указывает очередное направление движения по маршруту объезда.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-32-2-napravlenie-obezda/"
+    },
+    {
+      "id": "5.32.3",
+      "name": "Направление объезда",
+      "description": "Стрелка указывает очередное направление движения по маршруту объезда.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-32-3-napravlenie-obezda/"
+    },
+    {
+      "id": "5.33",
+      "name": "Стоп-линия",
+      "description": "Указывает место остановки при запрещающем сигнале светофора или регулировщика.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-33-stop-liniya/"
+    },
+    {
+      "id": "5.34.1",
+      "name": "Предварительный указатель перестроения на другую проезжую часть",
+      "description": "Заранее показывает, как временно перейти на другую проезжую часть.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-34-1-predvaritelnyy-ukazatel-perestroeniya-na-druguyu-proezzhuyu-chast/"
+    },
+    {
+      "id": "5.34.2",
+      "name": "Предварительный указатель перестроения на другую проезжую часть",
+      "description": "Заранее показывает, как вернуться на свою проезжую часть после временного перевода движения.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-34-2-predvaritelnyy-ukazatel-perestroeniya-na-druguyu-proezzhuyu-chast/"
+    },
+    {
+      "id": "5.35",
+      "name": "Реверсивное движение",
+      "description": "На дороге направление движения по одной или нескольким полосам может меняться по сигналам реверсивных светофоров.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-35-reversivnoe-dvizhenie/"
+    },
+    {
+      "id": "5.36",
+      "name": "Конец реверсивного движения",
+      "description": "Здесь заканчивается участок дороги, на котором действует реверсивное движение.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-36-konets-reversivnogo-dvizheniya/"
+    },
+    {
+      "id": "5.37",
+      "name": "Выезд на дорогу с реверсивным движением",
+      "description": "Обозначает выезд на дорогу с полосами, направление движения по которым может меняться.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-37-vyezd-na-dorogu-s-reversivnym-dvizheniem/"
+    },
+    {
+      "id": "5.38",
+      "name": "Жилая зона",
+      "description": "С этого места действуют особые правила движения в жилой зоне, в том числе преимущество пешеходов.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-38-zhilaya-zona/"
+    },
+    {
+      "id": "5.39",
+      "name": "Конец жилой зоны",
+      "description": "Обозначает выезд из жилой зоны.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-39-konets-zhiloy-zony/"
+    },
+    {
+      "id": "5.40",
+      "name": "Дорога для въезда в аварийных случаях",
+      "description": "Указывает путь для использования в аварийной ситуации, когда нужно покинуть основной участок дороги.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-40-doroga-dlya-vezda-v-avariynyh-sluchayah/"
+    },
+    {
+      "id": "5.41",
+      "name": "Фото- и видеосъёмка",
+      "description": "Предупреждает, что соблюдение дорожных правил на участке фиксируют стационарные камеры или другие электронные устройства.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-41-foto-i-videosemka/"
+    },
+    {
+      "id": "5.42",
+      "name": "Движение направо при красном сигнале",
+      "description": "У красного сигнала разрешает поворот направо при соблюдении мер безопасности. Перед поворотом уступите транспорту и пешеходам.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-42-dvizhenie-napravo-pri-krasnom-signale/"
+    },
+    {
+      "id": "5.43",
+      "name": "Радар",
+      "description": "Предупреждает об участке, на котором скорость может контролироваться радаром.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-43-radar/"
+    },
+    {
+      "id": "5.44",
+      "name": "Полоса для велосипедистов",
+      "description": "Показывает полосу, выделенную для велосипедов и средств индивидуальной мобильности.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-44-polosa-dlya-velosipedistov/"
+    },
+    {
+      "id": "5.45",
+      "name": "Конец полосы для велосипедистов",
+      "description": "Здесь заканчивается полоса для велосипедов и средств индивидуальной мобильности.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-45-konets-polosy-dlya-velosipedistov/"
+    },
+    {
+      "id": "5.46",
+      "name": "Школа",
+      "description": "Указывает на школу рядом с дорогой. В этом месте следует ожидать появления детей.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-46-shkola/"
+    },
+    {
+      "id": "5.47",
+      "name": "Указатель направления объектов туризма",
+      "description": "Коричневый указатель показывает, куда ехать к туристическому объекту.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-47-ukazatel-napravleniya-obektov-turizma/"
+    },
+    {
+      "id": "5.16.2",
+      "name": "Пешеходный переход",
+      "description": "Указывает пешеходный переход. Если разметки нет, этот знак ставят справа у ближней границы перехода.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-16-2-peshehodnyy-perehod/"
+    },
+    {
+      "id": "5.19.4",
+      "name": "Тупиковая дорога",
+      "description": "Предупреждает, что на обозначенной ветви дороги нет сквозного проезда.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-19-4-tupikovaya-doroga/",
+      "imageSourceUrl": "https://lex.uz/uz/files/7050653.jpg"
+    },
+    {
+      "id": "5.20.4",
+      "name": "Указатель направления поворота или разворота",
+      "description": "Помогает найти путь к месту поворота налево или разворота на развязке с разными уровнями.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-20-4-ukazatel-napravleniya-povorota-ili-razvorota/",
+      "imageSourceUrl": "https://lex.uz/uz/files/7050656.jpg"
+    },
+    {
+      "id": "5.48",
+      "name": "Приподнятый пешеходный переход",
+      "description": "Обозначает пешеходный переход, поднятый над уровнем дороги.",
+      "sourceUrl": "https://pddtest.uz/znaki/5-48-pripodnyatyy-peshehodnyy-perehod/",
+      "imageSourceUrl": "https://lex.uz/uz/files/7249303.jpg"
+    }
+  ]
+}

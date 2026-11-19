@@ -1,0 +1,5 @@
+{
+  "position": "Карточка {current} из {total}",
+  "progressLabel": "Карточек с ответом",
+  "swipeHint": "Влево — «Не знаю», вправо — «Знаю»"
+}

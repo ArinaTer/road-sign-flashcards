@@ -1,0 +1,72 @@
+:root {
+  color-scheme: dark;
+  --paper: #0b111c;
+  --surface: #141f30;
+  --raised: #1b2a40;
+  --ink: #f1f5ff;
+  --muted: #afbed4;
+  --line: #31445f;
+  --blue: #7298ff;
+  --blue-hover: #94b2ff;
+  --accent: #a9c3ff;
+  --indigo-ink: #b7caff;
+  --indigo-surface: #25365d;
+  --amber-ink: #ffd498;
+  --amber-surface: #3b2a20;
+  --violet-ink: #d9c4ff;
+  --violet-surface: #342950;
+  --mint-ink: #9ae6c8;
+  --mint-surface: #193b35;
+  --shadow: #04081080;
+  font: 100%/1.5 Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  color: var(--ink);
+  min-height: 100vh;
+  background: radial-gradient(ellipse at 75% 0%, #17253b, transparent 42rem), var(--paper);
+}
+button, select {
+  font: inherit;
+}
+button {
+  cursor: pointer;
+}
+button, a, select {
+  -webkit-tap-highlight-color: transparent;
+}
+a {
+  color: var(--accent);
+  text-underline-offset: .18em;
+}
+:focus-visible {
+  outline: 3px solid #a9c3ff;
+  outline-offset: 3px;
+}
+h1[tabindex], h2[tabindex] {
+  outline: none;
+}
+h1, h2, h3, p, dl, dd {
+  margin: 0;
+}
+h1, h2, h3 {
+  line-height: 1.13;
+}
+img {
+  display: block;
+}
+
+.shell {
+  width: min(70rem, calc(100% - 3rem));
+  margin-inline: auto;
+}
+
+@media (max-width: 42rem) {
+  .shell {
+    width: calc(100% - 2rem);
+  }
+}

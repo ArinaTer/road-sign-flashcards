@@ -1,0 +1,378 @@
+{
+  "id": "7",
+  "directory": "supplementary",
+  "title": "Знаки дополнительной информации",
+  "signs": [
+    {
+      "id": "7.1.1",
+      "name": "Расстояние до объекта",
+      "description": "Число показывает, сколько осталось до объекта, начала ограничения или опасного участка впереди.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-1-1-rasstoyanie-do-obekta/",
+      "imageSourceUrl": "https://uzavtoyolbelgi.uz/uploads/store/product/34c6c24e7e62240ef90d22f3fbde6a38.gif"
+    },
+    {
+      "id": "7.1.2",
+      "name": "Расстояние до объекта",
+      "description": "Под знаком «Уступите дорогу» предупреждает о расстоянии до перекрёстка, у которого требуется остановка по знаку STOP.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-1-2-rasstoyanie-do-obekta/"
+    },
+    {
+      "id": "7.1.3",
+      "name": "Расстояние до объекта",
+      "description": "Стрелка и число показывают, в какую сторону и как далеко от дороги находится обозначенный объект.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-1-3-rasstoyanie-do-obekta/"
+    },
+    {
+      "id": "7.1.4",
+      "name": "Расстояние до объекта",
+      "description": "Стрелка и число показывают, в какую сторону и как далеко от дороги находится обозначенный объект.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-1-4-rasstoyanie-do-obekta/"
+    },
+    {
+      "id": "7.2.1",
+      "name": "Зона действия",
+      "description": "Число задаёт протяжённость участка, на котором действует основной знак.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-2-1-zona-deystviya/"
+    },
+    {
+      "id": "7.2.2",
+      "name": "Зона действия",
+      "description": "Стрелка вверх и число указывают длину зоны запрета остановки или стоянки от места установки знака.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-2-2-zona-deystviya/"
+    },
+    {
+      "id": "7.2.3",
+      "name": "Зона действия",
+      "description": "Стрелка вниз показывает конец зоны запрета остановки или стоянки.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-2-3-zona-deystviya/"
+    },
+    {
+      "id": "7.2.4",
+      "name": "Зона действия",
+      "description": "Две вертикальные стрелки показывают, что вы уже находитесь внутри зоны запрета остановки или стоянки.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-2-4-zona-deystviya/"
+    },
+    {
+      "id": "7.2.5",
+      "name": "Зона действия",
+      "description": "Стрелка и число задают направление и длину зоны запрета остановки или стоянки вдоль указанной стороны.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-2-5-zona-deystviya/"
+    },
+    {
+      "id": "7.2.6",
+      "name": "Зона действия",
+      "description": "Стрелка и число задают направление и длину зоны запрета остановки или стоянки вдоль указанной стороны.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-2-6-zona-deystviya/"
+    },
+    {
+      "id": "7.3.1",
+      "name": "Направление действия",
+      "description": "Стрелки показывают, по каким направлениям действует основной знак или где находится указанный им объект.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-3-1-napravlenie-deystviya/"
+    },
+    {
+      "id": "7.3.2",
+      "name": "Направление действия",
+      "description": "Стрелки показывают, по каким направлениям действует основной знак или где находится указанный им объект.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-3-2-napravlenie-deystviya/"
+    },
+    {
+      "id": "7.3.3",
+      "name": "Направление действия",
+      "description": "Стрелки показывают, по каким направлениям действует основной знак или где находится указанный им объект.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-3-3-napravlenie-deystviya/"
+    },
+    {
+      "id": "7.4.1",
+      "name": "Вид транспортного средства",
+      "description": "Уточняет, что основной знак относится к грузовым автомобилям указанной правилами категории.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-4-1-vid-transportnogo-sredstva/"
+    },
+    {
+      "id": "7.4.2",
+      "name": "Вид транспортного средства",
+      "description": "Уточняет, что основной знак относится к грузовому транспорту и тракторам с прицепами или полуприцепами.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-4-2-vid-transportnogo-sredstva/"
+    },
+    {
+      "id": "7.4.3",
+      "name": "Вид транспортного средства",
+      "description": "Ограничивает действие основного знака транспортом, обозначенным символом легкового автомобиля.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-4-3-vid-transportnogo-sredstva/"
+    },
+    {
+      "id": "7.4.4",
+      "name": "Вид транспортного средства",
+      "description": "Указывает, что основной знак относится к автобусам.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-4-4-vid-transportnogo-sredstva/"
+    },
+    {
+      "id": "7.4.5",
+      "name": "Вид транспортного средства",
+      "description": "Ограничивает действие основного знака тракторами и самоходными машинами.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-4-5-vid-transportnogo-sredstva/"
+    },
+    {
+      "id": "7.4.6",
+      "name": "Вид транспортного средства",
+      "description": "Уточняет, что основной знак действует в отношении мотоциклов.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-4-6-vid-transportnogo-sredstva/"
+    },
+    {
+      "id": "7.4.7",
+      "name": "Вид транспортного средства",
+      "description": "Уточняет, что основной знак относится к транспорту, обозначенному символом велосипеда.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-4-7-vid-transportnogo-sredstva/"
+    },
+    {
+      "id": "7.4.8",
+      "name": "Вид транспортного средства",
+      "description": "Действие основного знака относится к транспорту, который обозначен как перевозящий опасный груз.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-4-8-vid-transportnogo-sredstva/"
+    },
+    {
+      "id": "7.5.1",
+      "name": "Суббота, воскресенье и праздничные дни",
+      "description": "Основной знак действует по субботам, воскресеньям и в праздничные дни.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-5-1-subbota-voskresene-i-prazdnichnye-dni/"
+    },
+    {
+      "id": "7.5.2",
+      "name": "Рабочие дни",
+      "description": "Указанное основным знаком условие действует в рабочие дни.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-5-2-rabochie-dni/"
+    },
+    {
+      "id": "7.5.3",
+      "name": "Дни недели",
+      "description": "Перечисляет дни недели, в которые действует основной знак.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-5-3-dni-nedeli/"
+    },
+    {
+      "id": "7.5.4",
+      "name": "Время действия",
+      "description": "Показывает часы, в которые действует основной знак.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-5-4-vremya-deystviya/"
+    },
+    {
+      "id": "7.5.5",
+      "name": "Время действия",
+      "description": "Указывает часы действия знака в выходные и праздничные дни.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-5-5-vremya-deystviya/"
+    },
+    {
+      "id": "7.5.6",
+      "name": "Время действия",
+      "description": "Указывает часы действия знака в рабочие дни.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-5-6-vremya-deystviya/"
+    },
+    {
+      "id": "7.5.7",
+      "name": "Время действия",
+      "description": "Указывает конкретный день недели и время, в которое действует знак.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-5-7-vremya-deystviya/"
+    },
+    {
+      "id": "7.6.1",
+      "name": "Способ постановки транспортного средства на стоянку",
+      "description": "Показывает, что транспорт нужно поставить вдоль края проезжей части, параллельно тротуару.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-6-1-sposob-postanovki-transportnogo-sredstva-na-stoyanku/"
+    },
+    {
+      "id": "7.6.2",
+      "name": "Способ постановки транспортного средства на стоянку",
+      "description": "Схема показывает, как припарковать транспорт относительно края дороги или тротуара.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-6-2-sposob-postanovki-transportnogo-sredstva-na-stoyanku/"
+    },
+    {
+      "id": "7.6.3",
+      "name": "Способ постановки транспортного средства на стоянку",
+      "description": "Схема показывает, как припарковать транспорт относительно края дороги или тротуара.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-6-3-sposob-postanovki-transportnogo-sredstva-na-stoyanku/"
+    },
+    {
+      "id": "7.6.4",
+      "name": "Способ постановки транспортного средства на стоянку",
+      "description": "Схема показывает, как припарковать транспорт относительно края дороги или тротуара.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-6-4-sposob-postanovki-transportnogo-sredstva-na-stoyanku/"
+    },
+    {
+      "id": "7.6.5",
+      "name": "Способ постановки транспортного средства на стоянку",
+      "description": "Схема показывает, как припарковать транспорт относительно края дороги или тротуара.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-6-5-sposob-postanovki-transportnogo-sredstva-na-stoyanku/"
+    },
+    {
+      "id": "7.6.6",
+      "name": "Способ постановки транспортного средства на стоянку",
+      "description": "Схема показывает, как припарковать транспорт относительно края дороги или тротуара.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-6-6-sposob-postanovki-transportnogo-sredstva-na-stoyanku/"
+    },
+    {
+      "id": "7.6.7",
+      "name": "Способ постановки транспортного средства на стоянку",
+      "description": "Схема показывает, как припарковать транспорт относительно края дороги или тротуара.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-6-7-sposob-postanovki-transportnogo-sredstva-na-stoyanku/"
+    },
+    {
+      "id": "7.6.8",
+      "name": "Способ постановки транспортного средства на стоянку",
+      "description": "Схема показывает, как припарковать транспорт относительно края дороги или тротуара.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-6-8-sposob-postanovki-transportnogo-sredstva-na-stoyanku/"
+    },
+    {
+      "id": "7.7",
+      "name": "Стоянка с неработающим двигателем",
+      "description": "Ставить автомобиль на этой стоянке можно только с выключенным двигателем.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-7-stoyanka-s-nerabotayuschim-dvigatelem/"
+    },
+    {
+      "id": "7.8",
+      "name": "Платные услуги",
+      "description": "Уточняет, что указанная услуга или стоянка предоставляется за плату.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-8-platnye-uslugi/"
+    },
+    {
+      "id": "7.9",
+      "name": "Ограничение продолжительности стоянки",
+      "description": "Число показывает максимальное время, на которое можно оставить транспорт на этой стоянке.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-9-ogranichenie-prodolzhitelnosti-stoyanki/"
+    },
+    {
+      "id": "7.10",
+      "name": "Место для осмотра автомобилей",
+      "description": "На площадке есть эстакада или смотровая яма для проверки автомобиля.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-10-mesto-dlya-osmotra-avtomobiley/"
+    },
+    {
+      "id": "7.11",
+      "name": "Ограничение разрешенной максимальной массы",
+      "description": "Основной знак относится только к транспортным средствам с разрешённой максимальной массой выше значения на табличке.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-11-ogranichenie-razreshennoy-maksimalnoy-massy/"
+    },
+    {
+      "id": "7.12",
+      "name": "Опасная обочина",
+      "description": "Предупреждает, что съезжать на обочину опасно, например из-за дорожных работ.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-12-opasnaya-obochina/"
+    },
+    {
+      "id": "7.13",
+      "name": "Направление главной дороги",
+      "description": "Толстая линия показывает, как идёт главная дорога через перекрёсток.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-13-napravlenie-glavnoy-dorogi/"
+    },
+    {
+      "id": "7.14",
+      "name": "Полоса движения",
+      "description": "Уточняет, к какой полосе относится основной знак или сигнал светофора.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-14-polosa-dvizheniya/"
+    },
+    {
+      "id": "7.15",
+      "name": "Слепые пешеходы",
+      "description": "Предупреждает, что пешеходным переходом пользуются незрячие люди.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-15-slepye-peshehody/"
+    },
+    {
+      "id": "7.16",
+      "name": "Влажное покрытие",
+      "description": "Условие основного знака действует, когда покрытие проезжей части мокрое.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-16-vlazhnoe-pokrytie/"
+    },
+    {
+      "id": "7.17",
+      "name": "Инвалиды",
+      "description": "Вместе со знаком стоянки обозначает место для транспорта с соответствующим опознавательным знаком.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-17-invalidy/"
+    },
+    {
+      "id": "7.18",
+      "name": "Кроме инвалидов",
+      "description": "Освобождает от действия основного знака транспорт с опознавательным знаком инвалидности в предусмотренных правилами случаях.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-18-krome-invalidov/"
+    },
+    {
+      "id": "7.19",
+      "name": "Фото- и видеосъёмка",
+      "description": "Предупреждает, что на участке применяется автоматическая запись нарушений на фото или видео.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-19-foto-i-videosemka/"
+    },
+    {
+      "id": "7.20",
+      "name": "Класс опасного груза",
+      "description": "Число указывает класс опасного груза, к которому относится основной знак.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-20-klass-opasnogo-gruza/"
+    },
+    {
+      "id": "7.21",
+      "name": "Эвакуатор работает",
+      "description": "Предупреждает, что в этой зоне транспорт, оставленный с нарушением запрета, могут эвакуировать.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-21-evakuator-rabotaet/"
+    },
+    {
+      "id": "7.21.1",
+      "name": "Вид маршрутного транспортного средства",
+      "description": "Указывает, что рядом со стоянкой можно пересесть на вид общественного транспорта, изображённый на табличке.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-21-1-vid-marshrutnogo-transportnogo-sredstva/"
+    },
+    {
+      "id": "7.21.2",
+      "name": "Вид маршрутного транспортного средства",
+      "description": "Показывает, что рядом со стоянкой есть остановка автобуса для пересадки.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-21-2-vid-marshrutnogo-transportnogo-sredstva/"
+    },
+    {
+      "id": "7.21.3",
+      "name": "Вид маршрутного транспортного средства",
+      "description": "Показывает, что рядом со стоянкой есть остановка трамвая для пересадки.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-21-3-vid-marshrutnogo-transportnogo-sredstva/"
+    },
+    {
+      "id": "7.22.1",
+      "name": "Препятствие",
+      "description": "Помогает заметить препятствие издалека. Порядок объезда указывают установленные рядом знаки.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-22-1-prepyatstvie/"
+    },
+    {
+      "id": "7.22.2",
+      "name": "Препятствие",
+      "description": "Помогает заметить препятствие издалека. Порядок объезда указывают установленные рядом знаки.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-22-2-prepyatstvie/"
+    },
+    {
+      "id": "7.22.3",
+      "name": "Препятствие",
+      "description": "Помогает заметить препятствие издалека. Порядок объезда указывают установленные рядом знаки.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-22-3-prepyatstvie/"
+    },
+    {
+      "id": "7.6.9",
+      "name": "Способ постановки транспортного средства на стоянку",
+      "description": "Схема показывает, как припарковать транспорт относительно края дороги или тротуара.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-6-9-sposob-postanovki-transportnogo-sredstva-na-stoyanku/",
+      "imageSourceUrl": "https://uzavtoyolbelgi.uz/uploads/store/product/3787b52e459520a92c7181bc2b9a0135.gif"
+    },
+    {
+      "id": "7.23",
+      "name": "Поочерёдный проезд",
+      "description": "На участке с ограниченным проездом транспорт пропускают по очереди, по одной машине из каждого потока.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-23-poocherednyy-proezd/",
+      "imageSourceUrl": "https://lex.uz/uz/files/5958448.jpg"
+    },
+    {
+      "id": "7.24",
+      "name": "Государственный номер транспортного средства",
+      "description": "Действие основного знака относится к транспортному средству, чей регистрационный номер указан на табличке.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-24-gosudarstvennyy-nomer-transportnogo-sredstva/",
+      "imageSourceUrl": "https://lex.uz/uz/files/5958448.jpg"
+    },
+    {
+      "id": "7.25",
+      "name": "Только служебные автомобили",
+      "description": "Действие основного знака распространяется только на служебные автомобили.",
+      "sourceUrl": "https://pddtest.uz/znaki/7-25-tolko-sluzhebnye-avtomobili/",
+      "imageSourceUrl": "https://lex.uz/uz/files/5958448.jpg"
+    }
+  ]
+}
