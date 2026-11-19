@@ -14,7 +14,7 @@ const props = defineProps({
 });
 defineEmits(['start']);
 
-const modeIcons = {new: 'book', unknown: 'flag', due: 'clock', known: 'repeat'};
+const modeIcons = {all: 'book', unknown: 'flag', due: 'clock', known: 'repeat'};
 const modeCopy = computed(() => modes[props.mode]);
 </script>
 
@@ -27,7 +27,7 @@ const modeCopy = computed(() => modes[props.mode]);
     <h3>{{ modeCopy.label }}</h3>
     <p>{{ modeCopy.detail }}</p>
     <div class="mode-action">
-      <AppButton v-if="count > 0" :variant="mode === 'new' ? 'primary' : 'secondary'"
+      <AppButton v-if="count > 0" :variant="mode === 'all' ? 'primary' : 'secondary'"
         :aria-label="modeCopy.label" @click="$emit('start', mode)">
         {{ copy.start }}
       </AppButton>

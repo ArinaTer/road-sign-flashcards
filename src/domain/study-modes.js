@@ -1,6 +1,6 @@
 import {isDue} from './repetition.js';
 
-export const countedModes = ['new', 'unknown', 'due', 'known'];
+export const countedModes = ['all', 'unknown', 'due', 'known'];
 
 export function cardsFor(mode, cards, progressFor, now) {
   if (mode === 'all') return cards.slice();

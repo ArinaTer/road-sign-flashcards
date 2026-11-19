@@ -10,16 +10,12 @@ const paths = {
   check: ['m5 12 4 4L19 6'],
   chevron: ['m7 10 5 5 5-5'],
 };
-const gridCells = [[4, 4], [14, 4], [4, 14], [14, 14]];
 </script>
 
 <template>
   <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
     stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
     <circle v-if="name === 'clock'" cx="12" cy="12" r="8.5" />
-    <template v-if="name === 'grid'">
-      <rect v-for="([x, y], index) in gridCells" :key="index" :x="x" :y="y" width="6" height="6" rx="1" />
-    </template>
     <path v-for="path in paths[name]" :key="path" :d="path" />
   </svg>
 </template>

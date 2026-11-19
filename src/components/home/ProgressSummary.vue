@@ -7,7 +7,7 @@ const props = defineProps({counts: {type: Object, required: true}});
 
 const items = computed(() => [
   {label: copy.known, value: props.counts.known},
-  {label: copy.remaining, value: props.counts.new + props.counts.unknown},
+  {label: copy.remaining, value: props.counts.all - props.counts.known},
   {label: copy.due, value: props.counts.due},
 ]);
 </script>

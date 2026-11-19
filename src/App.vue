@@ -15,7 +15,7 @@ const resetDialog = useTemplateRef('resetDialog');
 const progress = useSignProgress(catalog.map(card => card.id));
 const {storageNotice} = progress;
 const {
-  group, round, screen, selectedCards, counts, nextReviewAt,
+  group, round, screen, counts, nextReviewAt,
   goHome, startRound, revealCard, answerCard, undoAnswer,
 } = useStudySession(progress);
 
@@ -33,7 +33,7 @@ function resetProgress() {
 <template>
   <main ref="main" class="shell app-main" :aria-label="copy.mainLabel">
     <StorageNotice :status="storageNotice" />
-    <HomeView v-if="screen === 'home'" v-model="group" :counts="counts" :total="selectedCards.length"
+    <HomeView v-if="screen === 'home'" v-model="group" :counts="counts"
       :next-review-at="nextReviewAt" @start="startRound" @reset="resetDialog.open()" />
     <RoundView v-else-if="screen === 'round'" :round="round"
       @home="goHome" @undo="undoAnswer" @reveal="revealCard" @answer="answerCard" />

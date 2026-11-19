@@ -14,7 +14,8 @@ export function useStudySession(progress) {
     ? catalog
     : catalog.filter(card => card.groupId === group.value));
   const counts = computed(() => Object.fromEntries(countedModes.map(mode => [
-    mode, cardsFor(mode, selectedCards.value, progress.progressFor, now.value).length,
+    mode, mode === 'all' ? selectedCards.value.length
+      : cardsFor(mode, selectedCards.value, progress.progressFor, now.value).length,
   ])));
   const nextReviewAt = computed(() => {
     const next = Math.min(...selectedCards.value.map(card => {
@@ -93,7 +94,7 @@ export function useStudySession(progress) {
   }
 
   return {
-    group, round, screen, selectedCards, counts, nextReviewAt,
+    group, round, screen, counts, nextReviewAt,
     goHome, startRound, revealCard, answerCard, undoAnswer,
   };
 }
